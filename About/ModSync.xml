@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>f5c8dd40-77a8-42de-bb9e-37b1a46a3554</ID>
   <ModName>Pulsefire Turret (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,6 +12,7 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+
 
 
 
