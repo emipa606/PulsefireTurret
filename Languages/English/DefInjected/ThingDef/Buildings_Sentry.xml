@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PulsefireTwinCannon.label>Pulsefire Twin Cannon</PulsefireTwinCannon.label>
+  <PulsefireTwinCannon.description>A turret with twin cannon on top that automtically fires at nearby and distant enemies. Has a chance to explode when damaged. Can be upgraded.\n\nBase defense Turret for military outposts. Has a twin cannon with Pulsefire technology attached to it, to double up its rapid firerate. Maximum range, good precision and armor piercing bullets mounted on an auto turret.</PulsefireTwinCannon.description>
+
+  <Bullet_PulsefireTwinCannon.label>Aerodynamic Whirlwind Bullet</Bullet_PulsefireTwinCannon.label>
+
+  <Gun_PulsefireTwinCannon.label>Pulsefire Twin Cannon</Gun_PulsefireTwinCannon.label>
+  <Gun_PulsefireTwinCannon.description>Pulsefire Twin Cannon, Secret Technology.</Gun_PulsefireTwinCannon.description>
+
+
+</LanguageData>

@@ -1,17 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <PulsefireTwinCannon.label>Импульсная Сдвоенная Пушка</PulsefireTwinCannon.label>
   <PulsefireTwinCannon.description>Турель со сдвоенной импульсной пушкой, которая ведёт автоматический огонь как по ближним, так и по удалённым целям. При повреждении может взорваться. Может быть улучшена.\n\nБазовая оборонительная турель для военных форпостов. Оснащена сдвоенной импульсной пушкой, что позволяет увеличть скоротрельность в два раза. Турель обладает огромной дальнобойностью, прекрасной точностью и высоким показателем бронебойности.</PulsefireTwinCannon.description>
   <PulsefireTwinCannon_Blueprint.label>Импульсная Сдвоенная Пушка (чертёж)</PulsefireTwinCannon_Blueprint.label>
   <PulsefireTwinCannon_Blueprint_Install.label>Импульсная Сдвоенная Пушка (чертёж)</PulsefireTwinCannon_Blueprint_Install.label>
   <PulsefireTwinCannon_Frame.label>Импульсная Сдвоенная Пушка (постройка)</PulsefireTwinCannon_Frame.label>
   <PulsefireTwinCannon_Frame.description>Турель со сдвоенной импульсной пушкой, которая ведёт автоматический огонь как по ближним, так и по удалённым целям. При повреждении может взорваться. Может быть улучшена.\n\nБазовая оборонительная турель для военных форпостов. Оснащена сдвоенной импульсной пушкой, что позволяет увеличть скоротрельность в два раза. Турель обладает огромной дальнобойностью, прекрасной точностью и высоким показателем бронебойности.</PulsefireTwinCannon_Frame.description>
-
   <Bullet_PulsefireTwinCannon.label>Аэродинамическая Вихревая Пуля</Bullet_PulsefireTwinCannon.label>
-
   <Gun_PulsefireTwinCannon.label>Импульсная Сдвоенная Пушка</Gun_PulsefireTwinCannon.label>
   <Gun_PulsefireTwinCannon.description>Импульсная Сдвоенная Пушка, Секретные Технологии.</Gun_PulsefireTwinCannon.description>
-
-
 </LanguageData>

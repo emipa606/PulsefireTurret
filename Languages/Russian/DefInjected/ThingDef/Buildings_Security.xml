@@ -1,17 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <PulsefireTurretGun.label>Импульсная Турель</PulsefireTurretGun.label>
   <PulsefireTurretGun.description>Снайперская турель, которая ведёт автоматический огонь как по ближним, так и по удалённым целям. При повреждении может взорваться. Может быть улучшена.\n\nБазовая оборонительная турель для военных форпостов. Оснащена импульсной винтовкой прямого действия. Турель обладает огромной дальнобойностью, прекрасной точностью и толстой металлической бронёй.</PulsefireTurretGun.description>
   <PulsefireTurretGun_Blueprint.label>Импульсная Турель (чертёж)</PulsefireTurretGun_Blueprint.label>
   <PulsefireTurretGun_Blueprint_Install.label>Импульсная Турель (чертёж)</PulsefireTurretGun_Blueprint_Install.label>
   <PulsefireTurretGun_Frame.label>Импульсная Турель (постройка)</PulsefireTurretGun_Frame.label>
   <PulsefireTurretGun_Frame.description>Снайперская турель, которая ведёт автоматический огонь как по ближним, так и по удалённым целям. При повреждении может взорваться. Может быть улучшена.\n\nБазовая оборонительная турель для военных форпостов. Оснащена импульсной винтовкой прямого действия. Турель обладает огромной дальнобойностью, прекрасной точностью и толстой металлической бронёй.</PulsefireTurretGun_Frame.description>
-
   <Bullet_PulsefireTurret.label>Металлическая броня</Bullet_PulsefireTurret.label>
-
   <Gun_PulsefireTurret.label>Импульсная турель</Gun_PulsefireTurret.label>
   <Gun_PulsefireTurret.description>Импульсная Снайперская Винтовка, Секретные Технологии.</Gun_PulsefireTurret.description>
-
-
 </LanguageData>

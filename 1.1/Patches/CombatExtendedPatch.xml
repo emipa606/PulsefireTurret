@@ -80,7 +80,6 @@
                 <ai_combatDangerous>true</ai_combatDangerous>
                 <turretGunDef>Gun_PulsefireTurret</turretGunDef>
                 <turretBurstCooldownTime>6.0</turretBurstCooldownTime>
-                <turretTopGraphicPath>Things/Building/Security/PulsefireTurretGun</turretTopGraphicPath>
               </building>
               <placeWorkers>
                 <li>PlaceWorker_TurretTop</li>
@@ -94,13 +93,13 @@
         <li Class="PatchOperationReplace">
           <xpath>/Defs/ThingDef[defName="Gun_PulsefireTurret"]</xpath>
           <value>
-            <ThingDef ParentName="BaseHumanGun">
+            <ThingDef ParentName="BaseWeaponTurret">
               <defName>Gun_PulsefireTurret</defName>
               <label>Pulsefire Turret</label>
               <menuHidden>true</menuHidden>
               <description>Drect impact rifle with Pulsefire technology attached to it. Maximum range, great accuracy and full metal jacket power.</description>
               <graphicData>
-                <texPath>Things/Building/Security/PulsefireTurretBase</texPath>
+                <texPath>Things/Building/Security/PulsefireTurretGun_11</texPath>
                 <graphicClass>Graphic_Single</graphicClass>
               </graphicData>
               <soundInteract>Interact_Rifle</soundInteract>
@@ -235,7 +234,6 @@
                 <ai_combatDangerous>true</ai_combatDangerous>
                 <turretGunDef>Gun_PulsefireTwinCannon</turretGunDef>
                 <turretBurstCooldownTime>6.0</turretBurstCooldownTime>
-                <turretTopGraphicPath>Things/Building/Security/PulsefireTwinCannon</turretTopGraphicPath>
               </building>
               <placeWorkers>
                 <li>PlaceWorker_TurretTop</li>
@@ -249,13 +247,13 @@
         <li Class="PatchOperationReplace">
           <xpath>/Defs/ThingDef[defName="Gun_PulsefireTwinCannon"]</xpath>
           <value>
-            <ThingDef ParentName="BaseHumanGun">
+            <ThingDef ParentName="BaseWeaponTurret">
               <defName>Gun_PulsefireTwinCannon</defName>
               <label>Pulsefire Twin Cannon</label>
               <menuHidden>true</menuHidden>
               <description>Twin Cannon with Pulsefire technology attached to it. Maximum range, good precision and armor piercing bullets.</description>
               <graphicData>
-                <texPath>Things/Building/Security/PulsefireTurretBase</texPath>
+                <texPath>Things/Building/Security/PulsefireTwinCannon_11</texPath>
                 <graphicClass>Graphic_Single</graphicClass>
               </graphicData>
               <soundInteract>Interact_Rifle</soundInteract>

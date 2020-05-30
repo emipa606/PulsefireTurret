@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <PulsefireTech.label>パルスタレット</PulsefireTech.label>
-  <PulsefireTech.description>パルスガンの技術を利用して長距離射程用の強力で命中精度に優れたタレットを建設できるようになります。</PulsefireTech.description>
-
+  <PulsefireTech.label>ãƒ‘ãƒ«ã‚¹ã‚¿ãƒ¬ãƒƒãƒˆ</PulsefireTech.label>
+  <PulsefireTech.description>ãƒ‘ãƒ«ã‚¹ã‚¬ãƒ³ã®æŠ€è¡“ã‚’åˆ©ç”¨ã—ã¦é•·è·é›¢å°„ç¨‹ç”¨ã®å¼·åŠ›ã§å‘½ä¸­ç²¾åº¦ã«å„ªã‚ŒãŸã‚¿ãƒ¬ãƒƒãƒˆã‚’å»ºè¨­ã§ãã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã™ã€‚</PulsefireTech.description>
 </LanguageData>
