@@ -89,6 +89,20 @@
       <speed>90</speed>
     </projectile>
   </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_PulsefireTwinCannonEnhanced</defName>
+    <label>Aerodynamic Whirlwind Bullet Enhanced</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Whirlwind</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>25</damageAmountBase>
+      <armorPenetrationBase>0.35</armorPenetrationBase>
+      <speed>90</speed>
+    </projectile>
+  </ThingDef>
   <ThingDef ParentName="BaseWeaponTurret">
     <defName>Gun_PulsefireTwinCannon</defName>
     <label>Pulsefire Twin Cannon</label>
@@ -119,6 +133,44 @@
         <defaultProjectile>Bullet_PulsefireTwinCannon</defaultProjectile>
         <warmupTime>3.0</warmupTime>
         <range>52.4</range>
+        <ticksBetweenBurstShots>2</ticksBetweenBurstShots>
+        <burstShotCount>12</burstShotCount>
+        <soundCast>Shot_TurretSniper</soundCast>
+        <soundCastTail>GunTail_Light</soundCastTail>
+        <muzzleFlashScale>18</muzzleFlashScale>
+      </li>
+    </verbs>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeaponTurret">
+    <defName>Gun_PulsefireTwinCannonEnhanced</defName>
+    <label>Pulsefire Twin Cannon Enhanced</label>
+    <menuHidden>true</menuHidden>
+    <description>Pulsefire Twin Cannon Enhanced, Secret Technology.</description>
+    <graphicData>
+      <texPath>Things/Building/Security/PulsefireTwinCannon_11Enhanced</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Rifle</soundInteract>
+    <tradeability>None</tradeability>
+    <destroyOnDrop>true</destroyOnDrop>
+    <statBases>
+      <AccuracyTouch>0.91</AccuracyTouch>
+      <AccuracyShort>0.95</AccuracyShort>
+      <AccuracyMedium>0.97</AccuracyMedium>
+      <AccuracyLong>0.99</AccuracyLong>
+      <RangedWeapon_Cooldown>0.6</RangedWeapon_Cooldown>
+      <Mass>18</Mass>
+    </statBases>
+    <weaponTags>
+      <li>TurretGun</li>
+    </weaponTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_PulsefireTwinCannonEnhanced</defaultProjectile>
+        <warmupTime>2.5</warmupTime>
+        <range>62.4</range>
         <ticksBetweenBurstShots>2</ticksBetweenBurstShots>
         <burstShotCount>12</burstShotCount>
         <soundCast>Shot_TurretSniper</soundCast>

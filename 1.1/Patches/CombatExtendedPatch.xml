@@ -341,7 +341,8 @@
               <statFactors>
                 <MaxHitPoints>1.5</MaxHitPoints>
               </statFactors>
-              <turretTopGraphicPath>Things/Building/Security/PulsefireTurretGunEnhanced</turretTopGraphicPath>
+              <turretGunDef>Gun_PulsefireTurretEnhanced</turretGunDef>
+              <!-- <turretTopGraphicPath>Things/Building/Security/PulsefireTurretGunEnhanced</turretTopGraphicPath> -->
               <canForceAttack>true</canForceAttack>
               <baseResourceDropPct>1</baseResourceDropPct>
               <destroyedResourceDropPct>0.75</destroyedResourceDropPct>
@@ -383,9 +384,10 @@
               <statFactors>
                 <MaxHitPoints>1.5</MaxHitPoints>
               </statFactors>
-              <turretTopGraphicPath>Things/Building/Security/PulsefireTwinCannonEnhanced</turretTopGraphicPath>
+              <!-- <turretTopGraphicPath>Things/Building/Security/PulsefireTwinCannonEnhanced</turretTopGraphicPath> -->
               <turretBurstWarmupTimeFactor>0.9</turretBurstWarmupTimeFactor>
               <turretBurstCooldownTimeFactor>0.9</turretBurstCooldownTimeFactor>
+              <turretGunDef>Gun_PulsefireTwinCannonEnhanced</turretGunDef>
               <canForceAttack>true</canForceAttack>
               <baseResourceDropPct>1</baseResourceDropPct>
               <destroyedResourceDropPct>0.75</destroyedResourceDropPct>

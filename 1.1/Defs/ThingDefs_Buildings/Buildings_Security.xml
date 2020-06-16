@@ -89,6 +89,20 @@
       <speed>100</speed>
     </projectile>
   </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_PulsefireTurretEnhanced</defName>
+    <label>Full Metal Jacket Round Enhanced</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Big</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>40</damageAmountBase>
+      <armorPenetrationBase>0.7</armorPenetrationBase>
+      <speed>100</speed>
+    </projectile>
+  </ThingDef>
   <ThingDef ParentName="BaseWeaponTurret">
     <defName>Gun_PulsefireTurret</defName>
     <label>Pulsefire Turret</label>
@@ -119,6 +133,43 @@
         <defaultProjectile>Bullet_PulsefireTurret</defaultProjectile>
         <warmupTime>3.0</warmupTime>
         <range>52.4</range>
+        <burstShotCount>1</burstShotCount>
+        <soundCast>PulsefireTurretRound</soundCast>
+        <soundCastTail>GunTail_Light</soundCastTail>
+        <muzzleFlashScale>20</muzzleFlashScale>
+      </li>
+    </verbs>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeaponTurret">
+    <defName>Gun_PulsefireTurretEnhanced</defName>
+    <label>Pulsefire Turret Enhanced</label>
+    <menuHidden>true</menuHidden>
+    <description>Pulsefire Sniper Rifle Enhanced, Secret Technology.</description>
+    <graphicData>
+      <texPath>Things/Building/Security/PulsefireTurretGun_11Enhanced</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Rifle</soundInteract>
+    <tradeability>None</tradeability>
+    <destroyOnDrop>true</destroyOnDrop>
+    <statBases>
+      <AccuracyTouch>1.00</AccuracyTouch>
+      <AccuracyShort>0.97</AccuracyShort>
+      <AccuracyMedium>0.94</AccuracyMedium>
+      <AccuracyLong>0.90</AccuracyLong>
+      <RangedWeapon_Cooldown>0.7</RangedWeapon_Cooldown>
+      <Mass>10</Mass>
+    </statBases>
+    <weaponTags>
+      <li>TurretGun</li>
+    </weaponTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_PulsefireTurretEnhanced</defaultProjectile>
+        <warmupTime>2.6</warmupTime>
+        <range>62.4</range>
         <burstShotCount>1</burstShotCount>
         <soundCast>PulsefireTurretRound</soundCast>
         <soundCastTail>GunTail_Light</soundCastTail>
