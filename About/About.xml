@@ -14,57 +14,60 @@
     <li>CETeam.CombatExtended</li>
     <li>XeoNovaDan.TurretExtensions</li>
   </loadAfter>
-  <description>Update of Trunkens mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Trunkens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1712142869
 
-[img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://discord.gg/SuhwVpM
-
-Non-steam version:
-https://github.com/emipa606/PulsefireTurret
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/PulsefireTurret][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-Version 1.0: Release
-Version 1.1: Combat Extended and Turret Extensions support
-Version 1.2: Added another Turret (2 of 2) + Japanese Translation (Special Thx Proxyer)
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+[b]Version 1.0[/b]: Release
+[b]Version 1.1[/b]: Combat Extended and Turret Extensions support
+[b]Version 1.2[/b]: Added another Turret (2 of 2) + Japanese Translation (Special Thx Proxyer)
 
 Adds 2 new maximum range security buildings to the game:
 
-The Pulsefire Turret and Twin Cannon
+[h1]The Pulsefire Turret and Twin Cannon[/h1]
 
-Properties
-- High precision
-- Full Metal Jacket
-- Slow reload
-- 1x1
+[b]Properties[/b]
+ - High precision
+ - Full Metal Jacket
+ - Slow reload
+ - 1x1
 
-Requirements
-- Technology "Pulsefire Turret"
-(dependency: "Precision Rifle", "Gun Turrets", "Multy Analyzer")
-- Metal: 125
-- Steel: 125
-- Components: 8
-- Power consumption: 400 W
+[b]Requirements[/b]
+ - Technology "Pulsefire Turret"
+   (dependency: "Precision Rifle", "Gun Turrets", "Multy Analyzer")
+ - Metal: 125
+ - Steel: 125
+ - Components: 8
+ - Power consumption: 400 W
 
 Highend turret. Lategame content.
 
-Compatibility
-- [XND] Turret Extensions
-- Combat Extended
-- CE Ammo Optimizer
+[b]Compatibility[/b]
+ - [XND] Turret Extensions
+ - Combat Extended
+ - CE Ammo Optimizer
 
+[img]https://i.ibb.co/Cs48QPv/CE-COMBAT-EXTENDED-ARHHH-klein.png[/img]
 
+[i]Devastating for everyone on hit with its target acquisition system.[/i]
 
-Devastating for everyone on hit with its target acquisition system.
-
-Details: Sniper Turret
+[b]Details: Sniper Turret[/b]
 30 DMG Full Metal Jacket bullets (.600 Nitro Express)
 on 56 max. RANGE ingame
 and 6 seconds CD
 
-Details: Twin Cannon
+[b]Details: Twin Cannon[/b]
 20 DMG Full Metal Jacket bullets (High caliber subsonic 127x55mm AP)
 Motoric double burst (Rapid Fire)
 on 56 max. RANGE ingame
@@ -72,7 +75,7 @@ and 6 seconds CD
 
 Needs ~10 Researches from scratch Crash Landing
 
-Credits
+[b]Credits[/b]
 Inspired * by Sunny and Kilroy232
 Sound Effect * by Marvin
 Russian Translation * by AftarNik
@@ -81,5 +84,8 @@ German Translation * by Endgegner
 
 **Patches "Sniper Turret" with the correct range limit.
 Meant to be comparable and suitable to each other
-  </description>
+
+[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
+
+Join us in Discord: https://discord.gg/sT4zdXt</description>
 </ModMetaData>

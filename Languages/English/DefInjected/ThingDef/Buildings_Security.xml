@@ -1,13 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <PulsefireTurretGun.label>Pulsefire Turret</PulsefireTurretGun.label>
-  <PulsefireTurretGun.description>A turret with a sniper rifle on top that automtically fires at nearby and distant enemies. Has a chance to explode when damaged. Can be upgraded.\n\nBase defense Turret for military outposts. Has a direct impact rifle with Pulsefire technology attached to it. Maximum range, great accuracy and full metal jacket power mounted on an auto turret.</PulsefireTurretGun.description>
-
-  <Bullet_PulsefireTurret.label>Full Metal Jacket Round</Bullet_PulsefireTurret.label>
-
-  <Gun_PulsefireTurret.label>Pulsefire Turret</Gun_PulsefireTurret.label>
-  <Gun_PulsefireTurret.description>Pulsefire Sniper Rifle, Secret Technology.</Gun_PulsefireTurret.description>
-
+  <!--<PulsefireTurretGun.label>Pulsefire Turret</PulsefireTurretGun.label>-->
+  <!--<PulsefireTurretGun.description>A turret with a sniper rifle on top that automtically fires at nearby and distant enemies. Has a chance to explode when damaged. Can be upgraded.\n\nBase defense Turret for military outposts. Has a direct impact rifle with Pulsefire technology attached to it. Maximum range, great accuracy and full metal jacket power mounted on an auto turret.</PulsefireTurretGun.description>-->
+  <!--<Bullet_PulsefireTurret.label>Full Metal Jacket Round</Bullet_PulsefireTurret.label>-->
+  <!--<Gun_PulsefireTurret.label>Pulsefire Turret</Gun_PulsefireTurret.label>-->
+  <!--<Gun_PulsefireTurret.description>Pulsefire Sniper Rifle, Secret Technology.</Gun_PulsefireTurret.description>-->
 
 </LanguageData>
