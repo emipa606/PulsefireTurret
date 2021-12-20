@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Pulsefire Turret (Continued)</name>
   <packageId>Mlie.PulsefireTurret</packageId>
@@ -15,11 +15,11 @@
     <li>CETeam.CombatExtended</li>
     <li>XeoNovaDan.TurretExtensions</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Trunkens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1712142869
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
@@ -28,7 +28,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1712142869
 	[/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 [b]Version 1.0[/b]: Release
 [b]Version 1.1[/b]: Combat Extended and Turret Extensions support
@@ -45,8 +45,8 @@ Adds 2 new maximum range security buildings to the game:
  - 1x1
 
 [b]Requirements[/b]
- - Technology &quot;Pulsefire Turret&quot;
-   (dependency: &quot;Precision Rifle&quot;, &quot;Gun Turrets&quot;, &quot;Multy Analyzer&quot;)
+ - Technology "Pulsefire Turret"
+   (dependency: "Precision Rifle", "Gun Turrets", "Multy Analyzer")
  - Metal: 125
  - Steel: 125
  - Components: 8
@@ -83,12 +83,12 @@ Russian Translation * by AftarNik
 Japanese Translation * by Proxyer
 German Translation * by Endgegner
 
-**Patches &quot;Sniper Turret&quot; with the correct range limit.
+**Patches "Sniper Turret" with the correct range limit.
 Meant to be comparable and suitable to each other
 
 [img]https://i.imgur.com/p7Fv1Z6.gif[/img]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -99,4 +99,3 @@ Meant to be comparable and suitable to each other
 [/list]
 </description>
 </ModMetaData>
-

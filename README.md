@@ -1,23 +1,14 @@
 # PulsefireTurret
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Trunkens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1712142869
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/PulsefireTurret]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 **Version 1.0**: Release
@@ -36,8 +27,8 @@ Adds 2 new maximum range security buildings to the game:
  - 1x1
 
 **Requirements**
- - Technology &quot;Pulsefire Turret&quot;
-   (dependency: &quot;Precision Rifle&quot;, &quot;Gun Turrets&quot;, &quot;Multy Analyzer&quot;)
+ - Technology "Pulsefire Turret"
+   (dependency: "Precision Rifle", "Gun Turrets", "Multy Analyzer")
  - Metal: 125
  - Steel: 125
  - Components: 8
@@ -75,13 +66,13 @@ Russian Translation * by AftarNik
 Japanese Translation * by Proxyer
 German Translation * by Endgegner
 
-**Patches &quot;Sniper Turret&quot; with the correct range limit.
+**Patches "Sniper Turret" with the correct range limit.
 Meant to be comparable and suitable to each other
 
 ![Image](https://i.imgur.com/p7Fv1Z6.gif)
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
