@@ -25,7 +25,7 @@
       <WorkToBuild>5000</WorkToBuild>
       <Mass>150</Mass>
       <Beauty>-10</Beauty>
-      <ShootingAccuracyTurret>0.85</ShootingAccuracyTurret>
+      <ShootingAccuracyTurret>0.97</ShootingAccuracyTurret>
     </statBases>
     <tickerType>Normal</tickerType>
     <comps Inherit="False">

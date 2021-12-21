@@ -1,5 +1,8 @@
 # Changelog for PulsefireTurret
 
+1.0.8.0 - Increased the double-turrets accuracy as it seemed reasonable. Thanks Omega for the detailed suggestion!
+
+
 1.0.7.0 - CE-patch is now included in the main CE-mod instead
 
 

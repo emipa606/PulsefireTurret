@@ -5,6 +5,8 @@
 Update of Trunkens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1712142869
 
+- The CE-patch is now included in the main CE-mod
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
