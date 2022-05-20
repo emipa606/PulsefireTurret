@@ -312,6 +312,7 @@
   <Operation Class="PatchOperationFindMod">
     <mods>
       <li>[XND] Turret Extensions</li>
+      <li>[XND] Turret Extensions (Continued)</li>
     </mods>
     <match Class="PatchOperationSequence">
       <success>Always</success>
@@ -356,6 +357,7 @@
   <Operation Class="PatchOperationFindMod">
     <mods>
       <li>[XND] Turret Extensions</li>
+      <li>[XND] Turret Extensions (Continued)</li>
     </mods>
     <match Class="PatchOperationSequence">
       <success>Always</success>

@@ -1,5 +1,8 @@
 # Changelog for PulsefireTurret
 
+1.3.1 - Fixed Turret Expansion patches
+
+
 1.0.8.0 - Increased the double-turrets accuracy as it seemed reasonable. Thanks Omega for the detailed suggestion!
 
 
