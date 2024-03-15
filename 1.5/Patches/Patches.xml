@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <!-- Mod Support for Sniper Turret -->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Sniper Turret</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <!-- Bugfix -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="Gun_SniperTurret"]/verbs/li/range</xpath>
+          <value>
+            <range>52.4</range>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+  <!-- Mod Support for Turret Extensions -->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[XND] Turret Extensions</li>
+      <li>[XND] Turret Extensions (Continued)</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="PulsefireTurretGun"]/comps</xpath>
+          <value>
+            <!-- #1 -->
+            <li Class="TurretExtensions.CompProperties_Upgradable">
+              <description>Target Aquisition System</description>
+              <upgradedTurretDescription>A turret with a sniper rifle on top that automtically fires at nearby and distant enemies. Has a chance to explode when damaged.\n\nBase defense Turret for military outposts. Has a direct impact rifle with Pulsefire technology attached to it. Maximum range, great accuracy and full metal jacket power mounted on an auto turret. Enhanced with a Scope X Target Aquisition System.</upgradedTurretDescription>
+              <costList>
+                <Silver>500</Silver>
+                <Steel>50</Steel>
+                <Plasteel>50</Plasteel>
+                <ComponentIndustrial>1</ComponentIndustrial>
+              </costList>
+              <researchPrerequisites>
+                <li>GunTurrets</li>
+              </researchPrerequisites>
+              <workToUpgrade>6500</workToUpgrade>
+              <constructionSkillPrerequisite>15</constructionSkillPrerequisite>
+              <upgradeFailable>false</upgradeFailable>
+              <statOffsets>
+                <ShootingAccuracyTurret>0.05</ShootingAccuracyTurret>
+              </statOffsets>
+              <statFactors>
+                <MaxHitPoints>1.5</MaxHitPoints>
+              </statFactors>
+              <turretGunDef>Gun_PulsefireTurretEnhanced</turretGunDef>
+              <!-- <turretTopGraphicPath>Things/Building/Security/PulsefireTurretGunEnhanced</turretTopGraphicPath> -->
+              <canForceAttack>true</canForceAttack>
+              <baseResourceDropPct>1</baseResourceDropPct>
+              <destroyedResourceDropPct>0.75</destroyedResourceDropPct>
+            </li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+  <!-- Upgrades Turret #2 -->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>[XND] Turret Extensions</li>
+      <li>[XND] Turret Extensions (Continued)</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="PulsefireTwinCannon"]/comps</xpath>
+          <value>
+            <li Class="TurretExtensions.CompProperties_Upgradable">
+              <description>Hydraulic Turbo Motor</description>
+              <upgradedTurretDescription>A turret with a twin cannon on top that automtically fires at nearby and distant enemies. Has a chance to explode when damaged.\n\nBase defense Turret for military outposts. Has a twin cannon with Pulsefire technology attached to it, to double up its rapid firerate. Maximum range, good precision and armor piercing bullets mounted on an auto turret. Got more power due to its Hydraulic Turbo Motor.</upgradedTurretDescription>
+              <costList>
+                <Silver>500</Silver>
+                <Steel>50</Steel>
+                <Plasteel>50</Plasteel>
+                <ComponentSpacer>1</ComponentSpacer>
+              </costList>
+              <researchPrerequisites>
+                <li>GunTurrets</li>
+              </researchPrerequisites>
+              <workToUpgrade>7500</workToUpgrade>
+              <constructionSkillPrerequisite>15</constructionSkillPrerequisite>
+              <upgradeFailable>false</upgradeFailable>
+              <statOffsets>
+                <ShootingAccuracyTurret>0.05</ShootingAccuracyTurret>
+              </statOffsets>
+              <statFactors>
+                <MaxHitPoints>1.5</MaxHitPoints>
+              </statFactors>
+              <!-- <turretTopGraphicPath>Things/Building/Security/PulsefireTwinCannonEnhanced</turretTopGraphicPath> -->
+              <turretBurstWarmupTimeFactor>0.9</turretBurstWarmupTimeFactor>
+              <turretBurstCooldownTimeFactor>0.9</turretBurstCooldownTimeFactor>
+              <turretGunDef>Gun_PulsefireTwinCannonEnhanced</turretGunDef>
+              <canForceAttack>true</canForceAttack>
+              <baseResourceDropPct>1</baseResourceDropPct>
+              <destroyedResourceDropPct>0.75</destroyedResourceDropPct>
+            </li>
+            <li Class="TurretExtensions.CompProperties_SmartForcedTarget">
+              <onlyApplyWhenUpgraded>true</onlyApplyWhenUpgraded>
+            </li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
