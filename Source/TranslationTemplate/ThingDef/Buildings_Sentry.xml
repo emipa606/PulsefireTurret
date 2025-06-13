@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Aerodynamic Whirlwind Bullet -->
+  <Bullet_PulsefireTwinCannon.label>Aerodynamic Whirlwind Bullet</Bullet_PulsefireTwinCannon.label>
+  <!-- EN: Aerodynamic Whirlwind Bullet Enhanced -->
+  <Bullet_PulsefireTwinCannonEnhanced.label>Aerodynamic Whirlwind Bullet Enhanced</Bullet_PulsefireTwinCannonEnhanced.label>
+  <!-- EN: Pulsefire Twin Cannon -->
+  <Gun_PulsefireTwinCannon.label>Pulsefire Twin Cannon</Gun_PulsefireTwinCannon.label>
+  <!-- EN: Pulsefire Twin Cannon, Secret Technology. -->
+  <Gun_PulsefireTwinCannon.description>Pulsefire Twin Cannon, Secret Technology.</Gun_PulsefireTwinCannon.description>
+  <!-- EN: Pulsefire Twin Cannon -->
+  <Gun_PulsefireTwinCannon.verbs.Verb_Shoot.label>Pulsefire Twin Cannon</Gun_PulsefireTwinCannon.verbs.Verb_Shoot.label>
+  <!-- EN: Pulsefire Twin Cannon Enhanced -->
+  <Gun_PulsefireTwinCannonEnhanced.label>Pulsefire Twin Cannon Enhanced</Gun_PulsefireTwinCannonEnhanced.label>
+  <!-- EN: Pulsefire Twin Cannon Enhanced, Secret Technology. -->
+  <Gun_PulsefireTwinCannonEnhanced.description>Pulsefire Twin Cannon Enhanced, Secret Technology.</Gun_PulsefireTwinCannonEnhanced.description>
+  <!-- EN: Pulsefire Twin Cannon Enhanced -->
+  <Gun_PulsefireTwinCannonEnhanced.verbs.Verb_Shoot.label>Pulsefire Twin Cannon Enhanced</Gun_PulsefireTwinCannonEnhanced.verbs.Verb_Shoot.label>
+  <!-- EN: Pulsefire Twin Cannon -->
+  <PulsefireTwinCannon.label>Pulsefire Twin Cannon</PulsefireTwinCannon.label>
+  <!-- EN: A turret with twin cannon on top that automtically fires at nearby and distant enemies. Has a chance to explode when damaged. Can be upgraded.\n\nBase defense Turret for military outposts. Has a twin cannon with Pulsefire technology attached to it, to double up its rapid firerate. Maximum range, good precision and armor piercing bullets mounted on an auto turret. -->
+  <PulsefireTwinCannon.description>A turret with twin cannon on top that automtically fires at nearby and distant enemies. Has a chance to explode when damaged. Can be upgraded.
+
+Base defense Turret for military outposts. Has a twin cannon with Pulsefire technology attached to it, to double up its rapid firerate. Maximum range, good precision and armor piercing bullets mounted on an auto turret.</PulsefireTwinCannon.description>
+</LanguageData>

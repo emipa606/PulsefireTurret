@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Full Metal Jacket Round -->
+  <Bullet_PulsefireTurret.label>Full Metal Jacket Round</Bullet_PulsefireTurret.label>
+  <!-- EN: Full Metal Jacket Round Enhanced -->
+  <Bullet_PulsefireTurretEnhanced.label>Full Metal Jacket Round Enhanced</Bullet_PulsefireTurretEnhanced.label>
+  <!-- EN: Pulsefire Turret -->
+  <Gun_PulsefireTurret.label>Pulsefire Turret</Gun_PulsefireTurret.label>
+  <!-- EN: Pulsefire Sniper Rifle, Secret Technology. -->
+  <Gun_PulsefireTurret.description>Pulsefire Sniper Rifle, Secret Technology.</Gun_PulsefireTurret.description>
+  <!-- EN: Pulsefire Turret -->
+  <Gun_PulsefireTurret.verbs.Verb_Shoot.label>Pulsefire Turret</Gun_PulsefireTurret.verbs.Verb_Shoot.label>
+  <!-- EN: Pulsefire Turret Enhanced -->
+  <Gun_PulsefireTurretEnhanced.label>Pulsefire Turret Enhanced</Gun_PulsefireTurretEnhanced.label>
+  <!-- EN: Pulsefire Sniper Rifle Enhanced, Secret Technology. -->
+  <Gun_PulsefireTurretEnhanced.description>Pulsefire Sniper Rifle Enhanced, Secret Technology.</Gun_PulsefireTurretEnhanced.description>
+  <!-- EN: Pulsefire Turret Enhanced -->
+  <Gun_PulsefireTurretEnhanced.verbs.Verb_Shoot.label>Pulsefire Turret Enhanced</Gun_PulsefireTurretEnhanced.verbs.Verb_Shoot.label>
+  <!-- EN: Pulsefire Turret -->
+  <PulsefireTurretGun.label>Pulsefire Turret</PulsefireTurretGun.label>
+  <!-- EN: A turret with a sniper rifle on top that automtically fires at nearby and distant enemies. Has a chance to explode when damaged. Can be upgraded.\n\nBase defense Turret for military outposts. Has a direct impact rifle with Pulsefire technology attached to it. Maximum range, great accuracy and full metal jacket power mounted on an auto turret. -->
+  <PulsefireTurretGun.description>A turret with a sniper rifle on top that automtically fires at nearby and distant enemies. Has a chance to explode when damaged. Can be upgraded.
+
+Base defense Turret for military outposts. Has a direct impact rifle with Pulsefire technology attached to it. Maximum range, great accuracy and full metal jacket power mounted on an auto turret.</PulsefireTurretGun.description>
+</LanguageData>
