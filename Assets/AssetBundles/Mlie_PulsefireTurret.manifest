@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3254200048
+CRC: 918740233
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f3ff432e2b0b985ca5f1afb29bb75309
+    Hash: 8f155d01d9d2b11196a096d2b51e0c0e
   TypeTreeHash:
     serializedVersion: 2
     Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f3ff432e2b0b985ca5f1afb29bb75309
+    Hash: 8f155d01d9d2b11196a096d2b51e0c0e
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,16 +18,16 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTurretGun_11Enhanced.png
 - Assets/Data/Mlie.PulsefireTurret/Textures/Things/Projectile/Bullet_Whirlwind.png
 - Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTwinCannon_11.png
-- Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTurretGunEnhanced.png
-- Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTwinCannon.png
-- Assets/Data/Mlie.PulsefireTurret/Sounds/PulsefireTurret/PulsefireHighCalibre.wav
 - Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTwinCannon_11Enhanced.png
-- Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTwinCannonEnhanced.png
+- Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTurretGunEnhanced.png
 - Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTurretGun.png
-- Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTurretGun_11.png
+- Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTwinCannon.png
 - Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTurretBase.png
-- Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTurretGun_11Enhanced.png
+- Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTurretGun_11.png
+- Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTwinCannonEnhanced.png
+- Assets/Data/Mlie.PulsefireTurret/Sounds/PulsefireTurret/PulsefireHighCalibre.wav
 - Assets/Data/Mlie.PulsefireTurret/Textures/Things/Building/Security/PulsefireTurretGun_Ico.png
 Dependencies: []
